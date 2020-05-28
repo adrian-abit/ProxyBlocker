@@ -59,6 +59,7 @@ public class ProxyBlocker extends Plugin {
 	@Override
 	public void onEnable() {
 		
+		
 		super.onEnable();
 	}
 
