@@ -1,7 +1,7 @@
 # ProxyBlocker
 ProxyBlocker V2 Recode
 
-## Licence
+## License
 
 > Copyright (c) 2020 - present mnjg123.
 All rights reserved. This program and the accompanying materials
